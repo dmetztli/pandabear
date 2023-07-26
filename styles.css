@@ -1,0 +1,65 @@
+.color1 {color: #e9c5ff;}
+.color2 {color: #ffe2ff;}
+.color3 {color: #1d1732;}
+.color4 {color: #78767b;}
+.color5 {color: #e2e2e2;}
+
+body{
+    background-image:
+        linear-gradient(
+        to bottom,
+        #ffe2ff,
+        #e9c5ff);
+        font-family: 'Anton', sans-serif;
+        font-family: 'Signika Negative', sans-serif;
+    }
+
+h1{
+    color: #1d1732;
+    font-size: 60px;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
+    line-height: 0ch;
+}
+
+h2{
+    color: #78767b;
+    font-size: 30px;
+    font-family: 'Signika Negative', sans-serif;
+    text-align: center;
+}
+
+.img1{
+    width: 400px;
+    float: right;
+    margin: 10px;
+}
+
+.img2{
+    height: 400px;
+    float: left;
+    margin-right: 40px;
+    margin-left: 10px;
+    margin-top:  10px;
+    margin-bottom: 10px;
+}
+
+p{
+    text-align: justify;
+    width: fit-content;
+    color: #1d1732;
+    font-size: larger;
+}
+
+h3{
+    text-align: left;
+    color: #78767b;
+    font-size: large;
+    line-height: normal;
+}
+
+small{
+    text-align: center;
+    color: #78767b;
+    font-size: small;
+}
